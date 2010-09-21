@@ -10,7 +10,7 @@
 (defn euler-3 [n]
   (first (factors n)))
 
-(euler-3 600851475143)
+
 
 
 

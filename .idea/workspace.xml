@@ -60,19 +60,64 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="euler_01.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/euler/euler_01.clj">
+      <file leaf-file-name="euler_10.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/euler/euler_10.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
+            <state line="9" column="0" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="core.clj" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="euler_11.clj" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/euler/euler_11.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="0" selection-start="2880" selection-end="2880" vertical-scroll-proportion="0.86153847">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="euler_utils.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/euler/euler_utils.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/euler/test/core.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="4" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.95049506">
+            <state line="50" column="0" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="euler_05.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/euler/euler_05.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="euler_06.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/euler/euler_06.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="euler_07.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/euler/euler_07.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -87,55 +132,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="euler_06.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/euler/euler_06.clj">
+      <file leaf-file-name="euler_09.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/euler/euler_09.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="727" selection-end="740" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="euler_04.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/euler/euler_04.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="758" selection-end="767" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="euler_07.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/euler/euler_07.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="euler_03.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/euler/euler_03.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="22" selection-start="203" selection-end="226" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="euler_02.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/euler/euler_02.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="34" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="euler_05.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/euler/euler_05.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
+            <state line="14" column="39" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -159,10 +159,17 @@
         <option value="$PROJECT_DIR$/test/euler/test/euler-test.clj" />
         <option value="$PROJECT_DIR$/src/euler/euler_01.clj" />
         <option value="$PROJECT_DIR$/src/euler/euler-02.clj" />
-        <option value="$PROJECT_DIR$/src/euler/euler_07.clj" />
-        <option value="$PROJECT_DIR$/src/euler/euler_04.clj" />
         <option value="$PROJECT_DIR$/src/euler/euler_08.clj" />
+        <option value="$PROJECT_DIR$/src/euler/euler_09.clj" />
+        <option value="$PROJECT_DIR$/src/euler/euler_utils.clj" />
+        <option value="$PROJECT_DIR$/src/euler/euler_10.clj" />
+        <option value="$PROJECT_DIR$/src/euler/euler_03.clj" />
+        <option value="$PROJECT_DIR$/src/euler/euler_04.clj" />
+        <option value="$PROJECT_DIR$/src/euler/euler_05.clj" />
+        <option value="$PROJECT_DIR$/src/euler/euler_06.clj" />
+        <option value="$PROJECT_DIR$/src/euler/euler_07.clj" />
         <option value="$PROJECT_DIR$/test/euler/test/core.clj" />
+        <option value="$PROJECT_DIR$/src/euler/euler_11.clj" />
       </list>
     </option>
   </component>
@@ -258,6 +265,42 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="euler" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clojure-euler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clojure-euler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clojure-contrib-1.2.0.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clojure-euler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clojure-euler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clojure-1.2.0.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -469,14 +512,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Clojure REPL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Clojure REPL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6630435" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -515,6 +558,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/lib/clojure-contrib-1.2.0.jar!/clojure/contrib/lazy_seqs.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="29" selection-start="2065" selection-end="2092" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/euler/euler_01.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
@@ -529,37 +579,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/euler/euler_05.clj">
+    <entry file="file://$PROJECT_DIR$/src/euler/euler_04.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
+        <state line="33" column="0" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/euler/euler_03.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="22" selection-start="203" selection-end="226" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/euler/euler_04.clj">
+    <entry file="file://$PROJECT_DIR$/src/euler/euler_05.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="758" selection-end="767" vertical-scroll-proportion="0.0">
+        <state line="10" column="0" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/euler/euler_06.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="727" selection-end="740" vertical-scroll-proportion="0.0">
+        <state line="23" column="0" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/euler/euler_07.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
+        <state line="8" column="0" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/euler/euler_10.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/euler/euler_utils.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/euler/test/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/clojure-contrib-1.2.0.jar!/clojure/contrib/miglayout/example.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/clojure-contrib-1.2.0.jar!/clojure/contrib/map_utils.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.464">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/euler/euler_09.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="39" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -571,9 +663,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/euler/test/core.clj">
+    <entry file="file://$PROJECT_DIR$/src/euler/euler_11.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="4" selection-start="1848" selection-end="1848" vertical-scroll-proportion="0.95049506">
+        <state line="51" column="0" selection-start="2880" selection-end="2880" vertical-scroll-proportion="0.86153847">
           <folding />
         </state>
       </provider>

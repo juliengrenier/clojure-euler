@@ -48,4 +48,4 @@
 (deftest test-euler-10
   (is (= 17 (euler-10 10))))
 
-;(deftest test-euler-10-a-million  (is (= 142913828922 (euler-10 2000000))))
+(deftest test-euler-10-a-million  (is (= 142913828922 (euler-10 2000000))))

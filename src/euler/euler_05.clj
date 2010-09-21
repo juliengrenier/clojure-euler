@@ -8,5 +8,4 @@
 (defn euler-5 [max]
   (reduce lcm (take max (whole-numbers))))
 
-(euler-5 20)
 

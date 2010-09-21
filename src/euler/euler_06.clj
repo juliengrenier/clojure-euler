@@ -21,4 +21,3 @@
 (defn euler-6 [max]
   (- (square-sum max) (sum-square max)))
 
-(euler-6 100)

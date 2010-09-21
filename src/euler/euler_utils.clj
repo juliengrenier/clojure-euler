@@ -1,4 +1,6 @@
-(ns euler.euler-utils)
+(ns euler.euler-utils
+  (:use clojure.contrib.lazy-seqs))
+
 
 (defn whole-numbers
   ([] (whole-numbers 1))
@@ -22,10 +24,6 @@
 (defn is-prime? [n]
   (empty? (filter #(and (> n %) (= (mod n %) 0)) (take (dec (Math/sqrt n)) (whole-numbers 2) ))))
 
-(defn primes []
-  (filter  is-prime? (whole-numbers 2)))
-
-
 
 (defn gcd [a b]
   (let [i (max a b)
@@ -42,5 +40,4 @@
         (if-let [f (first (filter #(zero? (mod n %)) (take-while #(<= % (Math/sqrt n)) (range  s n))))]
             (recur (/ n f) f (conj a f))
             (conj a n))))
-
 
