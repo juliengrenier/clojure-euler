@@ -7,10 +7,14 @@
 
 (use 'euler.euler-utils)
 
-(defn temp [a]
-  (map #(* a %) (take 10 (whole-numbers a))))
+(defn findC [a b]
+  (let [c (- 1000 (+ a b))]
+    (if (= (* c c) (+ (* a a) (* b b))) (* a b c) 0)))
+
+(defn findB [a]
+  (reduce + (map #(findC a %) (take 400 (whole-numbers a)))))
 
 (defn euler-9 []
-  (map temp (take 10 (whole-numbers))))
+  (reduce + (map findB (take 250 (whole-numbers)))))
 
 (euler-9 )
