@@ -8,6 +8,7 @@
   (:use [euler.euler-07] :reload)
   (:use [euler.euler-08] :reload)
   (:use [euler.euler-09] :reload)
+  (:use [euler.euler-10] :reload)
   (:use [clojure.test]))
 
 
@@ -43,3 +44,8 @@
 
 (deftest test-euler-09
   (is (= 31875000 (euler-9))))
+
+(deftest test-euler-10
+  (is (= 17 (euler-10 10))))
+
+;(deftest test-euler-10-a-million  (is (= 142913828922 (euler-10 2000000))))
