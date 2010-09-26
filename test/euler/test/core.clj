@@ -9,23 +9,26 @@
   (:use [euler.euler-08] :reload)
   (:use [euler.euler-09] :reload)
   (:use [euler.euler-10] :reload)
-  (:use [clojure.test]))
+  (:use [clojure.test])
+  (:use midje.sweet))
+
+
+(deftest test-euler-01-with-10
+  (fact (euler-1 10) => 23))
 
 
 (deftest test-euler-01
-  (is (= 233168 (euler-1 1000))))
+  (fact (euler-1 1000) => 233168))
 
-(deftest test-euler-01-with-10
-  (is (= 23 (euler-1 10))))
 
 (deftest test-euler-02
-  (is (= 4613732 (euler-2 4000000))))
+  (fact (euler-2 4000000) => 4613732))
 
 (deftest test-euler-03
-  (is (= 6857 (euler-3 600851475143))))
+  (fact (euler-3 600851475143) => 6857))
 
 (deftest test-euler-04
-  (is (= 906609 (euler-4))))
+  (fact (euler-4) => 906609))
 
 (deftest test-euler-05
   (is (= 232792560 (euler-5 20))))
