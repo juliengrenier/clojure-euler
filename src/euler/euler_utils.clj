@@ -41,3 +41,18 @@
             (recur (/ n f) f (conj a f))
             (conj a n))))
 
+(defn transpose
+  ([matrix] (transpose matrix []))
+  ([matrix result]
+    (if (some empty? matrix)
+      result
+      (recur (map next matrix) (conj result (map first matrix))))))
+
+(defn matrix-get [matrix x y]
+  (get (get matrix y) x))
+
+(defn row-count [matrix]
+  (count matrix))
+
+(defn column-count [matrix]
+  (count (first matrix)))
