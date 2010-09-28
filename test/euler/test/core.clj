@@ -11,6 +11,7 @@
   (:use [euler.euler-09] :reload)
   (:use [euler.euler-10] :reload)
   (:use [euler.euler-11] :reload)
+  (:use [euler.euler-12] :reload)
 
   (:use [clojure.test])
   (:use midje.sweet))
@@ -91,3 +92,6 @@
     [ 1 70 54 71 83 51 54 69 16 92 33 48 61 43 52  1 89 19 67 48]])
 (deftest test-euler-11
   (fact (euler-11 *matrix* 4) => 70600674))
+
+(deftest test-euler-12
+  (fact (euler-12 5) => 28))

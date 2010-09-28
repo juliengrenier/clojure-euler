@@ -56,3 +56,15 @@
 
 (defn column-count [matrix]
   (count (first matrix)))
+
+(defn all-factors [n]
+  (filter #(zero? (mod n %)) (take n (whole-numbers ))))
+
+(defn count-factors [n]
+  (* 2 (count (filter #(zero? (rem n %)) (take (dec (Math/sqrt n)) (whole-numbers ))))))
+
+(defn triagle-numbers
+  ([] (triagle-numbers 1))
+  ([n] (lazy-seq (cons (/ (* (inc n) n) 2) (triagle-numbers (inc n))))))
+
+
