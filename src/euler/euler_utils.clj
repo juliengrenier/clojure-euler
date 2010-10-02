@@ -68,3 +68,8 @@
   ([n] (lazy-seq (cons (/ (* (inc n) n) 2) (triagle-numbers (inc n))))))
 
 
+(defn number-to-seq [number]
+  (map #(Integer/parseInt (str %)) (str number) ))
+
+(defn fact! [n]
+ (reduce * (range 1 n)))
