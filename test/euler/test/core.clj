@@ -14,6 +14,7 @@
   (:use [euler.euler-12] :reload)
   (:use [euler.euler-13] :reload)
   (:use [euler.euler-14] :reload)
+  (:use [euler.euler-17] :reload)
 
   (:use [clojure.test])
   (:use midje.sweet))
@@ -205,3 +206,7 @@
 
 (deftest test-euler-14
   (fact (euler-14 100) => [97]))
+
+
+(deftest test-euler-17
+  (fact (euler-17 1000) => 21124))
