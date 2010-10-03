@@ -73,3 +73,9 @@
 
 (defn fact! [n]
  (reduce * (range 1 n)))
+
+(defn indexed-collections [col]
+  (map vector (whole-numbers) col))
+
+(defn weighted-collections [col]
+  (reduce merge (map hash-map col (whole-numbers))))
